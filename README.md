@@ -9,5 +9,5 @@ https://github.com/abiswas100/GUI_HeatLossProject
 
 #### Estimating surface temperature from thermal imagery of buildings for accurate thermal transmittance (U-value): A machine learning perspective    [![DOI: 10.1016/j.jobe.2020.101637](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://www.sciencedirect.com/science/article/pii/S2352710219327263)
 
-
+### Posters
 
